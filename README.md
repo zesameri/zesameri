@@ -4,7 +4,7 @@
 **zesameri/zesameri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on making a [cool](https://www.youtube.com/watch?v=923uTY2q71I) [webite](zesaneri.github.io)
+- 🔭 I’m currently working on making a [cool](https://www.youtube.com/watch?v=923uTY2q71I) [webite](https://zesameri.github.io)
 - 🌱 I’m currently learning python's beautiful soup
 - 👯 I’m looking to collaborate on tansparency in healthcare
 - 🤔 I’m looking for help with world peace
