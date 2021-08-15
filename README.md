@@ -1,4 +1,4 @@
-### hello this is meredith, what's your favorite color?
+### hello this is meredith
 
 <!--
 **zesameri/zesameri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
