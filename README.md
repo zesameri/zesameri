@@ -8,6 +8,5 @@
 - 🌱 I’m learning how to curate balanced fine tuning datasets
 - 🤔 I’m looking for help with world peace
 - 💬 Ask me about my diet
-- 📫 How to reach me: zesameri@gmail.com
 - ⚡ Fun fact: I can pick my nose with my tongue
 
